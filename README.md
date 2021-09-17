@@ -3,10 +3,10 @@
 
 ## I'm a Developer, Gamer, and Technophile !!
 
-- 🔭 I just landed my first job as software engineer!
-- 👯 I’m looking to collaborate & networking with other people
+- 👨‍💻 Currently working as a Software Engineer
+- 🤝 I’m looking to collaborate & networking with other people
 - 🥅 2021 Goals: Contribute more to self-improvement in becoming a better developer
-- ⚡ Hobbies: I love to watch anime, reading books and play guitar
+- 🎸 Hobbies: I love to watch anime, reading books and play guitar
 
 ### Connect with me:
 
