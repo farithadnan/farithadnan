@@ -1,4 +1,4 @@
-### Greetings!, I'm [Farith][website]👋
+### Greetings! I'm [Farith][website]👋
 
 
 ## I'm a Developer, Gamer, and Technophile !!
