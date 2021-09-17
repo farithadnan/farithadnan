@@ -11,8 +11,8 @@
 ### Connect with me:
 
 [<img align="left" alt="farithadnan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,16 +38,17 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Language Stats</summary>
+  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farithadnan&layout=compact" />
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
    <img align="center" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true&theme=dracula" />
 </details>
 
-<details>
-  <summary>:zap: Language Stats</summary>
-  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farithadnan&layout=compact" />
-</details>
+
 
 
 [website]: https://farithadnan.com
