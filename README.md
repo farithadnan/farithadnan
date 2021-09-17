@@ -12,7 +12,7 @@
 
 [<img align="left" alt="farithadnan" width="22px" src="https://pngimg.com/uploads/globe/small/globe_PNG6.png" />][website]
 [<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" />][linkedin]
-[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://pngimg.com/uploads/instagram/small/instagram_PNG9.png />][instagram]
+[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://pngimg.com/uploads/instagram/small/instagram_PNG9.png" />][instagram]
 
 <br />
 
