@@ -25,16 +25,21 @@
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />][github]
-[<img align="left" alt="Bootstrap" width="26px" src="https://bit.ly/3hJafaH"/>][github]
+[<img align="left" alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/>][github]
+[<img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.png"/>][github]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt=".net Core" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/dotnet.svg" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
 <br />
 <br />
+---
+
+<img align="center" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true&theme=dracula" />
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farithadnan&layout=compact" />
 
 [website]: https://farithadnan.com
 [instagram]: https://instagram.com/farith.adnan
