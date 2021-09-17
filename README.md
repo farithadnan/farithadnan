@@ -36,10 +36,19 @@
 
 <br />
 <br />
+
 ---
 
-<img align="center" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true&theme=dracula" />
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farithadnan&layout=compact" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+   <img align="center" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true&theme=dracula" />
+</details>
+
+<details>
+  <summary>:zap: Language Stats</summary>
+  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farithadnan&layout=compact" />
+</details>
+
 
 [website]: https://farithadnan.com
 [instagram]: https://instagram.com/farith.adnan
