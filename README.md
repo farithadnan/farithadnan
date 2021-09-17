@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="farithadnan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="farithadnan" width="22px" src="https://pngimg.com/uploads/globe/small/globe_PNG6.png" />][website]
+[<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" />][linkedin]
+[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://pngimg.com/uploads/instagram/small/instagram_PNG9.png />][instagram]
 
 <br />
 
@@ -26,7 +26,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />][github]
 [<img align="left" alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/>][github]
-[<img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.png"/>][github]
+[<img align="left" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/small/php_PNG34.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
