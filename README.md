@@ -4,7 +4,7 @@
 ## I'm a Developer, Gamer, and Technophile !!
 
 - 👨‍💻 Currently working as a Software Engineer
-- 🤝 I’m looking to collaborate & networking with other people
+- 🌱 I'm Learning Angular, Python & .net core at the moment
 - 🥅 2021 Goals: Contribute more to self-improvement in becoming a better developer
 - 🎸 Hobbies: I love to watch anime, reading books and play guitar
 
@@ -38,10 +38,6 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Language Stats</summary>
-  <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farithadnan&layout=compact" />
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
