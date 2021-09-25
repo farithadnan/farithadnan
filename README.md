@@ -35,8 +35,6 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 - [Enabling Access From A Different Host to a Local Serve Application (Angular)](https://farithadnan.com/enabling-access-from-different-host/)
 - [Basic Networking](https://farithadnan.com/basic-networking/)
 - [My First Post with Jekyll](https://farithadnan.com/first-post/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github Info:
