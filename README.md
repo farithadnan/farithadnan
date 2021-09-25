@@ -14,7 +14,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 
 ### Languages & Tools
 
-<details>	
+<div>	
   <img alt="Visual Studio Code" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img  alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
   <img alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,7 +31,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
   <img  alt=".net Core" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/dotnet.svg" />
   <img  alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img  alt="GitHub" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</details>
+</div>
 
 <details>	
   <summary><b>Favorite Languages</b></summary>
