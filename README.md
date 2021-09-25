@@ -15,7 +15,7 @@
     <tr>
       <td width="50%">
 
-  &nbsp; <br> <p align="center"> [![Spotify](https://img.shields.io/badge/Now%20Playing-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/ayiedfarith) </p>
+  &nbsp; <br> [![Spotify](https://img.shields.io/badge/Now%20Playing-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/ayiedfarith)
               [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
       </td>
       <td width="50%">
