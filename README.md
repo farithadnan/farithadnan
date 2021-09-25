@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farith</h1>
+<h1 align="center">Hi <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="30px">, I'm Farith</h1>
 <h3 align="center">With Great Knowledge, Comes A Great Power</h3>
 
 ---
