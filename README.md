@@ -41,7 +41,7 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 
 <details>
   <summary><b>:zap: GitHub Stats</b></summary>
-   <img height="180em" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true" />
+   <img height="180em" alt="Farith's GitHub stat" src="https://github-readme-stats-xi-virid.vercel.app/api?username=farithadnan&count_private=true&show_icons=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farithadnan&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="farithadnan"/>
 </details>
 
