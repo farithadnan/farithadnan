@@ -13,8 +13,6 @@
 
 [![Spotify](https://spotify-now-playing-kappa-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
-
 
 ### About Me
 
