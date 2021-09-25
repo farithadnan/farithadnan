@@ -1,19 +1,17 @@
 ## Hello, I'm [Farith][website] 👋
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/farith-syariffudin/) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farithadnan.com)](https://farithadnan.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farith.adnan/)](https://instagram.com/farith.adnan) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@farithadnan.com)](mailto:me@farithadnan.com) 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/farith-syariffudin/) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farithadnan.com)](https://farithadnan.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farith.adnan/)](https://instagram.com/farith.adnan) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@farithadnan.com)](mailto:me@farithadnan.com) <img src="https://komarev.com/ghpvc/?username=farithadnan&label=Profile%20views&color=0e75b6&style=flat" alt="farithadnan" /> 
 
-### Welcome to my profile! &nbsp; <img src="https://komarev.com/ghpvc/?username=farithadnan&label=Profile%20views&color=0e75b6&style=flat" alt="farithadnan" /> 
+### About me
 
-I'm a passionate learner who's always willing to learn 💡. 💻 I love exploring new tech and leverage them to solve real-life problems ✨
-
-### More about me:
+I'm a passionate learner who's always willing to learn 💡. 💻 I love exploring new tech and leverage them to solve real-life problems ✨.
 
 - 👨‍💻 Currently working as a Software Engineer
 - 🌱 I'm Learning Angular, Python & .net core at the moment
 - 🌐 Visit my [Website](https://farithadnan.me) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/farithadnan/farithadnan.github.io/tree/master/assets/file/Resume-Farith-Adnan.pdf).
 
-### Language & Tools
+### Languages & Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
@@ -31,6 +29,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br>
 ### Github Info:
 
 <details>
