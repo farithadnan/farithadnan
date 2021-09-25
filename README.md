@@ -13,7 +13,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 - 🌐 Visit my [Website](https://farithadnan.me) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/farithadnan/farithadnan.github.io/tree/master/assets/file/Resume-Farith-Adnan.pdf).
 
-<h2> 🛠 &nbsp;Languages and Tools</h2>
+### Language & Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
@@ -31,11 +31,11 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+### Github Info:
 
 <details>
   <summary><b>:zap: GitHub Stats</b></summary>
-   <img height="180em" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true&theme=dracula" />
+   <img height="180em" alt="Farith's GitHub stat" src="https://github-readme-stats.vercel.app/api?username=farithadnan&count_private=true&show_icons=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farithadnan&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="farithadnan"/>
 </details>
 
