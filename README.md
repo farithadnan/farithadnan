@@ -13,7 +13,7 @@
 
 ### Now Playing
 
-[![Spotify](https://spotify-now-playing-kappa-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith?si=5fe1973915fa405b)
+[![Spotify](https://spotify-now-playing-kappa-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
 
 </div>
 
