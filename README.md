@@ -77,7 +77,7 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 
 <details>
   <summary><b>:zap: GitHub Stats</b></summary>
-  <div align="center" style="margin-top: 5px">
+  <div align="center" style="margin-top: 10px">
     <table width="100%"> 
       <tr>
         <td width="100%">
