@@ -9,7 +9,15 @@
 
 </div>
 
-### About me
+<div align="center">
+
+### Now Playing
+
+[![Spotify](https://spotify-now-playing-kappa-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith?si=5fe1973915fa405b)
+
+</div>
+
+### About Me
 
 I'm a passionate learner who's always willing to learn 💡. 💻 I love exploring new tech and leverage them to solve real-life problems ✨.
 
@@ -30,7 +38,7 @@ Version Control          |  ![Git](https://img.shields.io/badge/git-%23F05033.sv
 Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-TemuJodoh-00fa9a?style=flat&logoColor=white)](https://github.com/farithadnan/TemuJodoh) [![Flopper CMS Badge](https://img.shields.io/badge/-Flopper%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/Flopper-CMS) [![ImageryBasket Badge](https://img.shields.io/badge/-ImageryBasket-gold?style=flat&logoColor=white)](https://github.com/farithadnan/ImageryBasket)
 
 
-### Latest Blog posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Enabling Access From A Different Host to a Local Serve Application (Angular)](https://farithadnan.com/enabling-access-from-different-host/)
 - [Basic Networking](https://farithadnan.com/basic-networking/)
