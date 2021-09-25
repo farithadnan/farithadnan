@@ -13,7 +13,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-    <p align="center"><b>Now Playing</b></p> 
+
 
 &nbsp; <br>  [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
 
