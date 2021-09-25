@@ -21,7 +21,6 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
   <img  alt="Sass" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img  alt="TypeScript" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
   <img  alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <br>
   <img  alt="Angular" width="30px" height="30px" src="https://angular.io/assets/images/logos/angular/angular.png" />
   <img  alt="Bootstrap" width="30px" height="30px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/>
   <img  alt="PHP" width="30px" height="30px" src="https://pngimg.com/uploads/php/small/php_PNG34.png" />
