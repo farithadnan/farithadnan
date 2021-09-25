@@ -1,27 +1,11 @@
-### Greetings! I'm [Farith][website]👋
+## Greetings! 👋 I'm [Farith][website]
 
-
-## I'm a Developer, Gamer, and Technophile !!
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/farith-syariffudin/) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farithadnan.com)](https://farithadnan.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farith.adnan/)](https://instagram.com/farith.adnan)
 
 - 👨‍💻 Currently working as a Software Engineer
 - 🌱 I'm Learning Angular, Python & .net core at the moment
 - 🥅 2021 Goals: Contribute more to self-improvement in becoming a better developer
 - 🎸 Hobbies: I love to watch anime, reading books and play guitar
-
-<div class="embed-spotify-list">
-    <iframe src="https://open.spotify.com/embed/user/spotify/playlist/37i9dQZF1DX9wa6XirBPv8?si=4dc67d1ca04547a8" 
-        frameborder="0" 
-        allowtransparency="true" 
-        allow="encrypted-media">
-    </iframe>
-</div>
-
-### Connect with me:
-
-
-[<img align="left" alt="farithadnan" width="22px" src="https://pngimg.com/uploads/globe/small/globe_PNG6.png" />][website]
-[<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" />][linkedin]
-[<img align="left" alt="farithadnan | Instagram" width="22px" src="https://pngimg.com/uploads/instagram/small/instagram_PNG9.png" />][instagram]
 
 <br />
 
