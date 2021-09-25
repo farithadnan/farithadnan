@@ -5,18 +5,26 @@
 
 <div align="center">
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/farith-syariffudin/) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farithadnan.com)](https://farithadnan.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farith.adnan/)](https://instagram.com/farith.adnan) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@farithadnan.com)](mailto:me@farithadnan.com) <img src="https://komarev.com/ghpvc/?username=farithadnan&label=Profile%20views&color=0e75b6&style=flat" alt="farithadnan" /> 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/farith-syariffudin/) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farithadnan.com)](https://farithadnan.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farith.adnan/)](https://instagram.com/farith.adnan) <img src="https://komarev.com/ghpvc/?username=farithadnan&label=Profile%20views&color=0e75b6&style=flat" alt="farithadnan" /> 
 
 </div>
 
-<div align="center">
 
-  ### Now Playing
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+    <p align="center"><b>Now Playing</b></p> 
 
-  [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
+&nbsp; <br>  [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
 
-</div>
+  </td>
+  <td width="50%">
 
+<br><p align="center">For further enquiries <br><br>
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/wS1sK3Rg)
+</p>
+  </td>
+  </table>
 
 ### About Me
 
