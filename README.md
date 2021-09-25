@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 - 🌐 Visit my [Blog][website].
 
 
-### Profile
+### Development Profile
 Category                 | Data  
 -------------------------|------
 Language                 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -21,51 +21,6 @@ Domain Knownledge        | ![Information Technology Badge](https://img.shields.i
 IDE                      | ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 Version Control          |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-TemuJodoh-00fa9a?style=flat&logoColor=white)](https://github.com/farithadnan/TemuJodoh) [![Flopper CMS Badge](https://img.shields.io/badge/-Flopper%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/Flopper-CMS) [![ImageryBasket Badge](https://img.shields.io/badge/-ImageryBasket-gold?style=flat&logoColor=white)](https://github.com/farithadnan/ImageryBasket)
-
-
-<br>
-<details>	
-  <summary><b>Favorite Languages</b></summary>
-  <img  alt="TypeScript" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-  <img  alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img  alt="PHP" width="30px" height="30px" src="https://pngimg.com/uploads/php/small/php_PNG34.png" />
-</details>
-
-<details>	
-  <summary><b>Frontend Development</b></summary>
-  <img  alt="Angular" width="30px" height="30px" src="https://angular.io/assets/images/logos/angular/angular.png" />
-  <img  alt="Bootstrap" width="30px" height="30px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/>
-  <img  alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
-  <img alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img  alt="Sass" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-</details>
-
-<details>	
-  <summary><b>Backend Developement</b></summary>
-  <img  alt="Node.js" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img  alt=".net Core" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/dotnet.svg" />
-</details>
-
-
-<details>	
-  <summary><b>Databases</b></summary>
-    <img  alt="MySQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img  alt="MongoDB" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</details>
-
-<details>	
-  <summary><b>Frameworks</b></summary>
-  <img  alt="Angular" width="30px" height="30px" src="https://angular.io/assets/images/logos/angular/angular.png" />
-  <img  alt=".net Core" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.14.0/icons/dotnet.svg" />
-</details>
-
-
-<details>	
-  <summary><b>Others</b></summary>
-  <img  alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img  alt="GitHub" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img alt="Visual Studio Code" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</details>
 
 <br>
 <br>
