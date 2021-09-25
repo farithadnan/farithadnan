@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 - 🌐 Visit my [Blog][website].
 
 
-### Development Profile
+### Tech Stack
 Category                 | Data  
 -------------------------|------
 Language                 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -22,7 +22,6 @@ IDE                      | ![Sublime Text](https://img.shields.io/badge/sublime_
 Version Control          |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-TemuJodoh-00fa9a?style=flat&logoColor=white)](https://github.com/farithadnan/TemuJodoh) [![Flopper CMS Badge](https://img.shields.io/badge/-Flopper%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/Flopper-CMS) [![ImageryBasket Badge](https://img.shields.io/badge/-ImageryBasket-gold?style=flat&logoColor=white)](https://github.com/farithadnan/ImageryBasket)
 
-<br>
 <br>
 
 ### Github Info:
