@@ -10,6 +10,7 @@
 </div>
 
 <div align="center">
+
   ## Now Playing
 
   [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
@@ -49,11 +50,13 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 <details>
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   <!--START_SECTION:activity-->
+
+
 1. 🎉 Merged PR [#1](https://github.com/farithadnan/farithadnan.github.io/pull/1) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
 2. 💪 Opened PR [#1](https://github.com/farithadnan/farithadnan.github.io/pull/1) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
 3. 🎉 Merged PR [#3](https://github.com/farithadnan/Flopper-CMS/pull/3) in [farithadnan/Flopper-CMS](https://github.com/farithadnan/Flopper-CMS)
-  3. 🎉 Merged PR [#3] in [farithadnan/Flopper-CMS](https://github.com/farithadnan/Flopper-CMS)
   
+
   <!--END_SECTION:activity-->
 </details>
 
