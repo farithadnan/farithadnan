@@ -9,10 +9,12 @@
 
 </div>
 
+<div align="center">
+  ## Now Playing
 
+  [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
 
-[![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
-
+</div>
 
 
 ### About Me
