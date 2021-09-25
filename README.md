@@ -7,8 +7,15 @@
 - 🌱 I'm Learning Angular, Python & .net core at the moment
 - 🥅 2021 Goals: Contribute more to self-improvement in becoming a better developer
 - 🎸 Hobbies: I love to watch anime, reading books and play guitar
-
+<div class="embed-spotify-list">
+    <iframe src="https://open.spotify.com/embed/user/spotify/playlist/37i9dQZF1DX9wa6XirBPv8?si=4dc67d1ca04547a8" 
+        frameborder="0" 
+        allowtransparency="true" 
+        allow="encrypted-media">
+    </iframe>
+</div>
 ### Connect with me:
+
 
 [<img align="left" alt="farithadnan" width="22px" src="https://pngimg.com/uploads/globe/small/globe_PNG6.png" />][website]
 [<img align="left" alt="farithadnan | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" />][linkedin]
