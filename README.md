@@ -59,6 +59,8 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 - [My First Post with Jekyll](https://farithadnan.com/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### Github Info:
 <details>
   <summary><b>:zap: Recent GitHub Activity</b></summary>
