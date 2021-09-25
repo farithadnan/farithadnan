@@ -31,6 +31,10 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 
 <br>
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Github Info:
 
 <details>
