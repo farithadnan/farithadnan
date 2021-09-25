@@ -9,13 +9,12 @@
 
 </div>
 
-<div align="center">
 
-### Now Playing
 
 [![Spotify](https://spotify-now-playing-kappa-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
 
-</div>
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
+
 
 ### About Me
 
