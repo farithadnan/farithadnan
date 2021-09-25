@@ -27,6 +27,7 @@
   </table>
 </div>
 
+---
 
 ### About Me
 
@@ -37,7 +38,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 - 📝 Checkout my [Resume](https://github.com/farithadnan/farithadnan.github.io/tree/master/assets/file/Resume-Farith-Adnan.pdf).
 - 🌐 Visit my [Blog][website].
 
-<br>
+---
 
 ### Tech Stack
 Category                 | Data  
