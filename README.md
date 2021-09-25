@@ -19,9 +19,9 @@
       </td>
       <td width="50%">
         <br>
-        <p align="center">For further enquiries <br><br>
+        <h3 align="center"><b>For Further Enquiries, Please Contact Via Link Below</b><br><br>
           [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/wS1sK3Rg)
-        </p>
+        </h3>
       </td>
     </tr>
   </table>
