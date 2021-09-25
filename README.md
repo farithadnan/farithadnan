@@ -82,6 +82,7 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
   <table width="100%"> 
     <tr>
       <td width="100%">
+      &nbsp; <br>
         <img height="180em" alt="Farith's GitHub stat" src="https://github-readme-stats-xi-virid.vercel.app/api?username=farithadnan&count_private=true&show_icons=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farithadnan&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="farithadnan"/>
       </td>
