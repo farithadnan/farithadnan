@@ -37,6 +37,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 - 📝 Checkout my [Resume](https://github.com/farithadnan/farithadnan.github.io/tree/master/assets/file/Resume-Farith-Adnan.pdf).
 - 🌐 Visit my [Blog][website].
 
+<br>
 
 ### Tech Stack
 Category                 | Data  
@@ -48,6 +49,7 @@ IDE                      | ![Sublime Text](https://img.shields.io/badge/sublime_
 Version Control          |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-TemuJodoh-00fa9a?style=flat&logoColor=white)](https://github.com/farithadnan/TemuJodoh) [![Flopper CMS Badge](https://img.shields.io/badge/-Flopper%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/Flopper-CMS) [![ImageryBasket Badge](https://img.shields.io/badge/-ImageryBasket-gold?style=flat&logoColor=white)](https://github.com/farithadnan/ImageryBasket)
 
+---
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
