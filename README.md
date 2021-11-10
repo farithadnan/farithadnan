@@ -68,10 +68,10 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
   <!--START_SECTION:activity-->
 
 
-1. ❗️ Closed issue [#1](https://github.com/farithadnan/Toolbox-Web/issues/1) in [farithadnan/Toolbox-Web](https://github.com/farithadnan/Toolbox-Web)
-2. ❗️ Opened issue [#1](https://github.com/farithadnan/Toolbox-Web/issues/1) in [farithadnan/Toolbox-Web](https://github.com/farithadnan/Toolbox-Web)
-3. 🎉 Merged PR [#1](https://github.com/farithadnan/farithadnan.github.io/pull/1) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
-4. 💪 Opened PR [#1](https://github.com/farithadnan/farithadnan.github.io/pull/1) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
+1. 🎉 Merged PR [#2](https://github.com/farithadnan/farithadnan.github.io/pull/2) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
+2. 💪 Opened PR [#2](https://github.com/farithadnan/farithadnan.github.io/pull/2) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
+3. ❗️ Closed issue [#1](https://github.com/farithadnan/Toolbox-Web/issues/1) in [farithadnan/Toolbox-Web](https://github.com/farithadnan/Toolbox-Web)
+4. ❗️ Opened issue [#1](https://github.com/farithadnan/Toolbox-Web/issues/1) in [farithadnan/Toolbox-Web](https://github.com/farithadnan/Toolbox-Web)
 
   <!--END_SECTION:activity-->
 </details>
