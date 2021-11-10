@@ -55,6 +55,7 @@ Side Projects - Web      | [![TemuJodoh Badge](https://img.shields.io/badge/-Tem
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Best DNS For Your Network?](https://farithadnan.com/suitable-dns-for-your-network/)
 - [Enabling Access From A Different Host to a Local Serve Application &lpar;Angular&rpar;](https://farithadnan.com/enabling-access-from-different-host/)
 - [Basic Networking](https://farithadnan.com/basic-networking/)
 - [My First Post with Jekyll](https://farithadnan.com/first-post/)
