@@ -49,7 +49,7 @@ Tool / Framework         | ![Angular](https://img.shields.io/badge/angular-%23DD
 Domain Knownledge        | ![Information Technology Badge](https://img.shields.io/badge/-Information%20Technology-FAB040?style=flat&logoColor=white) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) 
 IDE                      | ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 Version Control          |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-Projects                 | [![PHP CMS Badge](https://img.shields.io/badge/-Flopper%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/PHP-CMS) 
+Projects                 | [![PHP CMS Badge](https://img.shields.io/badge/-PHP%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/PHP-CMS) 
 ---
 
 ### Latest Blog Posts
