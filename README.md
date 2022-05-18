@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="30px">, I'm Farith</h1>
-<h3 align="center">with great knowledge, comes a great power</h3>
+<h3 align="center">WITH GREAT KNOWLEDGE COMES GREAT POWER</h3>
 
 ---
 
