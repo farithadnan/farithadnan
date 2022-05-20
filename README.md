@@ -36,8 +36,7 @@ I'm a passionate learner who's always willing to learn 💡. 💻 I love explori
 
 - 👨‍💻 Currently working as a Software Engineer
 - 🌱 I'm Learning Angular, Python & .net core at the moment
-- 📝 Checkout my [Resume](https://github.com/farithadnan/farithadnan.github.io/tree/master/assets/file/Resume-Farith-Adnan.pdf).
-- 🌐 Visit my [Blog][website].
+- 🌐 Visit my [Website][website].
 
 ---
 
