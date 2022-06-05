@@ -1,5 +1,9 @@
-<h1 align="center">Hi <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="3px">, I'm Farith</h1>
-<h3 align="center">WITH GREAT KNOWLEDGE COMES GREAT POWER</h3>
+<h1 align="center">Hi :wave: , I'm Farith</h1>
+ 
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
 
 ---
 
