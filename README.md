@@ -58,19 +58,6 @@ Projects                      | [![PHP CMS Badge](https://img.shields.io/badge/-
 
 ### Github Info:
 <details>
-  <summary><b>:zap: Recent GitHub Activity</b></summary>
-  <!--START_SECTION:activity-->
-
-
-1. 🎉 Merged PR [#2](https://github.com/farithadnan/farithadnan.github.io/pull/2) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
-2. 💪 Opened PR [#2](https://github.com/farithadnan/farithadnan.github.io/pull/2) in [farithadnan/farithadnan.github.io](https://github.com/farithadnan/farithadnan.github.io)
-3. ❗️ Closed issue [#1](https://github.com/farithadnan/Toolbox-Web/issues/1) in [farithadnan/Toolbox-Web](https://github.com/farithadnan/Toolbox-Web)
-4. ❗️ Opened issue [#1](https://github.com/farithadnan/Toolbox-Web/issues/1) in [farithadnan/Toolbox-Web](https://github.com/farithadnan/Toolbox-Web)
-
-  <!--END_SECTION:activity-->
-</details>
-
-<details>
   <summary><b>:zap: GitHub Stats</b></summary>
   <div align="center" style="margin-top: 10px">
     <table width="100%"> 
