@@ -25,7 +25,7 @@
       <td width="50%">
         <br>
         <h3 align="center">For Further Enquiries:<br><br>
-          [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/wS1sK3Rg)
+          [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/DDUlRFVG)
         </h3>
       </td>
     </tr>
