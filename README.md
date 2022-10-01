@@ -70,4 +70,4 @@ Projects                      | [![PHP CMS Badge](https://img.shields.io/badge/-
 
 
 
-[website]: https://farithadnan.com
+[website]: https://blog.farithadnan.net
