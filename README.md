@@ -13,12 +13,7 @@
 <div align="center">
   <table width="100%"> 
     <tr>
-      <td width="50%">
-
-  &nbsp; <br>
-              [![Spotify](https://spotify-now-playing-blue-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ayiedfarith)
-      </td>
-      <td width="50%">
+      <td width="100%">
         <br>
         <h3 align="center">For Further Enquiries:<br><br>
           [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/DDUlRFVG)
