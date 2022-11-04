@@ -1,15 +1,10 @@
 <h1 align="center">Hi :wave: , I'm Farith</h1>
  
-
----
-
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/farith-syariffudin/)](https://linkedin.com/in/farith-syariffudin/) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://farithadnan.com)](https://farithadnan.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farith.adnan/)](https://instagram.com/farith.adnan) <img src="https://komarev.com/ghpvc/?username=farithadnan&label=Profile%20views&color=0e75b6&style=flat" alt="farithadnan" /> 
 
 </div>
-
----
 
 ### About Me
 
