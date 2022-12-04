@@ -11,7 +11,7 @@
 I'm a passionate learner who's always willing to learn 💡. 💻 I love exploring new tech and leverage them to solve real-life problems ✨.
 
 - 👨‍💻 Currently working as a Software Engineer
-- 🌱 I'm Learning Angular, Python & .net core at the moment
+- 🌱 I'm Learning Angular, Python, Unity & .net core at the moment
 - 🌐 Visit my [Website][website].
 
 ---
@@ -24,7 +24,6 @@ Language                      | ![JavaScript](https://img.shields.io/badge/javas
 Tool / Framework              | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 IDE                           | ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 Version Control               |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-Projects                      | [![PHP CMS Badge](https://img.shields.io/badge/-PHP%20CMS-00eeff?style=flat&logoColor=white)](https://github.com/farithadnan/PHP-CMS) 
 ---
 
 
