@@ -6,13 +6,18 @@
 
 </div>
 
-### About Me
+### About
 
-I'm a passionate learner who's always willing to learn 💡. 💻 I love exploring new tech and leverage them to solve real-life problems ✨.
+As a software engineer, I am constantly seeking out new and innovative ways to solve complex problems. I am passionate about exploring new technologies and love to stay up-to-date with the latest developments in the field.
 
-- 👨‍💻 Currently working as a Software Engineer
-- 🌱 I'm Learning Angular, Python, Unity & .net core at the moment
-- 🌐 Visit my [Website][website].
+My skillset includes a variety of programming languages and technologies, such as Python, C#, and JavaScript. On my page, you'll find a collection of my past projects and work, which showcase my abilities and experience in the field.
+
+I am always looking for new challenges and opportunities to grow as a software engineer. If you have an interesting project or collaboration idea, I am open to exploring it with you.
+
+Thank you for visiting my page. If you have any questions or would like to discuss potential collaboration opportunities, please don't hesitate to reach out. I look forward to connecting with you. 👨‍💻 
+
+- 🌱 Currently Learning Angular, Python, Unity & .NET 
+- 🌐 Visit my [Blog][website].
 
 ---
 
