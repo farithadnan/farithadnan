@@ -8,7 +8,7 @@
 
 ### About
 
-Hey there! I'm a software engineer who enjoys tackling complex problems and discovering creative solutions. Always curious, I'm on the lookout for the latest tech trends and innovations.
+Hey there! I'm a software engineer who enjoys tackling complex problems and discovering creative solutions. Ever-curious, I stay attuned to the newest tech trends and breakthroughs in the industry.
 
 With a diverse skillset in languages like Python, C#, and JavaScript, I've got some cool projects under my belt. You can check them out on my page to get a feel for what I've been up to!
 
