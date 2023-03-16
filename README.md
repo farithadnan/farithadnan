@@ -10,7 +10,7 @@
 
 Hey there! I'm a software engineer who enjoys tackling complex problems and discovering creative solutions. Ever-curious, I stay attuned to the newest tech trends and breakthroughs in the industry.
 
-With a diverse skillset in languages like Python, C#, and JavaScript, I've got some cool projects under my belt. You can check them out on my page to get a feel for what I've been up to!
+With experience in languages like Python, C#, and JavaScript, I've worked on various projects that showcase my diverse skillset. Feel free to check them out on my page to see what I've been exploring!
 
 I'm a firm believer in growth and love taking on new challenges. If you've got an interesting project or collaboration idea, let's chat about it and see what we can create together.
 
