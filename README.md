@@ -28,10 +28,10 @@ IDE                           | ![Visual Studio Code](https://img.shields.io/bad
 Version Control               |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ---
 
-
-### Github Stats ℹ️
-
-<div align="center" style="margin-top: 10px">
+### Others ℹ
+<details>
+  <summary><b>:zap: GitHub Stats</b></summary>
+  <div align="center" style="margin-top: 10px">
   <table width="100%"> 
     <tr>
       <td width="100%">
@@ -40,5 +40,5 @@ Version Control               |  ![Git](https://img.shields.io/badge/git-%23F050
       </td>
     </tr>
   </table>
-</div>
-
+  </div>
+</details>
