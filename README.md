@@ -6,7 +6,7 @@
 
 </div>
 
-### About
+### About 🤷🏽‍♂️
 
 Hey there! I'm a software engineer who enjoys tackling complex problems and discovering creative solutions. Ever-curious, I stay attuned to the newest tech trends and breakthroughs in the industry.
 
@@ -15,11 +15,10 @@ With experience in languages like Python, C#, and JavaScript, I've worked on var
 I'm a firm believer in growth and love taking on new challenges. If you've got an interesting project or collaboration idea, let's chat about it and see what we can create together.
 
 Thanks for stopping by! If you have any questions or just want to connect, feel free to reach out. Can't wait to hear from you! 👨‍💻
-- 🌐 Visit my [Website][website].
 
 ---
 
-### Tech Stack
+### Tech Stack ⚒️
 
 Category                      | Data  
 ------------------------------|------
@@ -30,7 +29,7 @@ Version Control               |  ![Git](https://img.shields.io/badge/git-%23F050
 ---
 
 
-### Github Info:
+### Github Info ℹ️
 <details>
   <summary><b>:zap: GitHub Stats</b></summary>
   <div align="center" style="margin-top: 10px">
@@ -44,8 +43,3 @@ Version Control               |  ![Git](https://img.shields.io/badge/git-%23F050
     </table>
   </div>
 </details>
-
-
-
-
-[website]: https://blog.farithadnan.net
