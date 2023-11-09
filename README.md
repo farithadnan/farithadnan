@@ -15,9 +15,7 @@ With experience in languages like Python, C#, and JavaScript, I've worked on var
 I'm a firm believer in growth and love taking on new challenges. If you've got an interesting project or collaboration idea, let's chat about it and see what we can create together.
 
 Thanks for stopping by! If you have any questions or just want to connect, feel free to reach out. Can't wait to hear from you! 👨‍💻
-
-- 🌱 Learning Angular, Python, Unity & .NET
-- 🌐 Visit my [Blog][website].
+- 🌐 Visit my [Website][website].
 
 ---
 
